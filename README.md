@@ -34,7 +34,7 @@
     </tr>
     <tr>
         <td style="text-align: center;">Database</td>
-        <td style="text-align: center;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="firebase" width="40" height="40" /> </a>      <a href="hhttps://azure.microsoft.com/en-us/products/cosmos-db" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/azure-cosmos-db7049.jpg" alt="mysql" width="40" height="40" /> </a></td>
+        <td style="text-align: center;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="firebase" width="40" height="40" /> </a>      <a href="https://azure.microsoft.com/en-us/products/cosmos-db" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/azure-cosmos-db7049.jpg" alt="mysql" width="40" height="40" /> </a></td>
     </tr>
     <tr>
         <td style="text-align: center;">Software</td>
@@ -44,3 +44,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&locale=en" alt="aeonftw" /></p>
 <p><img align="left" style="margin-top: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&" alt="aeonftw" /></p>
+
+[![Aeonftw' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw)](https://github.com/aeonftw)
