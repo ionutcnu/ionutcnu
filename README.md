@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/a8/56/c4a8562a0785c5c342ee856e4b3b55ae.gif" alt="Testing"/>
+  <img src="testing.gif" alt="Testing GIF">
 </p>
 <h1>
 <h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
