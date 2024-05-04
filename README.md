@@ -1,7 +1,5 @@
 <p align="center">
-  <a>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVlNGNzZzJ6MHF3dGp1MTluYm1jcHVrNG54Z3ZidnAxeTdxMzZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krs7BX0BVQDvi/giphy.gif"  />
-  </a>
+  <img src="https://i.pinimg.com/originals/c4/a8/56/c4a8562a0785c5c342ee856e4b3b55ae.gif" alt="Testing"/>
 </p>
 <h1>
 <h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
