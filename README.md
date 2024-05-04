@@ -49,19 +49,19 @@
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: flex-start;">
     <!-- Most Used Languages Card -->
     <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" width="100">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" width="300">
     </div>
     <!-- GitHub Stats Card -->
     <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" width="100">
+      <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" width="300">
     </div>
     <!-- GitHub Streak Stats Card -->
     <div style="margin: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" width="100">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" width="300">
     </div>
     <!-- WakaTime Stats Card -->
     <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" width="100">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" width="300">
     </div>
   </div>
 </div>
