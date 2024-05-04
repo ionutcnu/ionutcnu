@@ -46,24 +46,22 @@
 
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: flex-start;">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 900px; margin: auto;">
     <!-- Most Used Languages Card -->
-    <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" width="300">
+    <div style="flex: 1 1 400px; max-width: 400px; margin: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" style="width: 100%; height: auto;">
     </div>
     <!-- GitHub Stats Card -->
-    <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" width="300">
+    <div style="flex: 1 1 400px; max-width: 400px; margin: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" style="width: 100%; height: auto;">
     </div>
-</div>
     <!-- GitHub Streak Stats Card -->
-    <div align="center">
-    <div style="margin: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" width="300">
+    <div style="flex: 1 1 400px; max-width: 400px; margin: 5px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" style="width: 100%; height: auto;">
     </div>
     <!-- WakaTime Stats Card -->
-    <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" width="300">
+    <div style="flex: 1 1 400px; max-width: 400px; margin: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" style="width: 100%; height: auto;">
     </div>
   </div>
 </div>
