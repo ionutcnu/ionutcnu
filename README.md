@@ -54,7 +54,7 @@
       <td style="width: 50%; padding: 5px; vertical-align: top;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" style="width: 100%; display: block; border: 0;">
       </td>
-      <td style="width: 50%; padding: 5px; vertical-align: top;">
+      <td style="width: 70%; padding: 5px; vertical-align: top;">
         <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" style="width: 100%; display: block; border: 0;">
       </td>
     </tr>
