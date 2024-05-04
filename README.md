@@ -55,7 +55,9 @@
     <div style="margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" width="300">
     </div>
+</div>
     <!-- GitHub Streak Stats Card -->
+    <div align="center">
     <div style="margin: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" width="300">
     </div>
