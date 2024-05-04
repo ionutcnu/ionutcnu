@@ -46,7 +46,7 @@
 
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 900px; margin: auto;">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 100px; margin: auto;">
     <!-- Most Used Languages Card -->
     <div style="flex: 1 1 400px; max-width: 400px; margin: 5px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" style="width: 100%; height: auto;">
