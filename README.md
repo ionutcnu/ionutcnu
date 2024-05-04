@@ -1,8 +1,7 @@
 
-<p align="center">
-![testing](https://github.com/aeonftw/aeonftw/assets/25122138/153d3bea-d934-486f-ba3c-3e7ea1f4dd8c)
-
-</p>
+<h1 align="center">
+    img src="![testing](https://github.com/aeonftw/aeonftw/assets/25122138/153d3bea-d934-486f-ba3c-3e7ea1f4dd8c)" alt="aeonftw" />
+</h1>
 <h1>
 <h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
 <h3 align="center">A passionate QA  with 2 years of experience in this field. <br/><br/> Currently located in Romania!</h3>
