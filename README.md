@@ -12,12 +12,15 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line SVG">
   </a>
   
-</p>
-  <p>A passionate QA with 2 years of experience in this field. Currently located in Romania!</p>
-  <p>🔭 I'm currently working at Endava PLC<br>
-  🌱 Learning Automation and C# + React<br>
-  📫 Reach me on <a href="https://www.linkedin.com/in/cioncu/">LinkedIn</a><br>
-  ⚡ Hobbies: Playing video games and spending time with people.</p>
+
+<h3 align="center">A passionate QA with 2 years of experience in this field. <br/><br/> Currently located in Romania!</h3>
+
+
+- 🔭 I’m currently working for [Endava PLC](https://www.endava.com/)
+- 🌱 I’m currently learning **C# and React**
+- 📫 Here you can reach me **[Linkedin](https://www.linkedin.com/in/cioncu/)**
+- ⚡ My hobbies are **to play videogames and spend time with people.**
+  
 
   <!-- Badges and Views -->
   <img src="https://komarev.com/ghpvc/?username=aeonftw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
@@ -65,4 +68,3 @@
     </tr>
   </table>
 </div>
-
