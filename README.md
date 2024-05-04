@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile GIF -->
-  <img src="testing.gif" alt="Profile GIF" width="300" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="testing.gif" alt="Profile GIF" ">
 
   <!-- Introduction Section -->
  <p align="center">
