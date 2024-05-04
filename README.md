@@ -48,12 +48,20 @@
   <h3>📊 My GitHub Stats</h3>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats"></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" style="width: 100%; height: auto; display: block;">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" style="width: 100%; height: auto; display: block;">
+      </td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats"></td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" style="width: 100%; height: auto; display: block;">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" style="width: 100%; height: auto; display: block;">
+      </td>
     </tr>
   </table>
 </div>
