@@ -1,13 +1,9 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/a8/56/c4a8562a0785c5c342ee856e4b3b55ae.gif" alt="image_description" />
+  <img src="![grab-landing-page](https://github.com/aeonftw/aeonftw/blob/main/testing.gif)" alt="testing" />
 </p>
 <h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B;I'm+Ionut+Cioncu)](https://git.io/typing-svg)" /></a>
-</p>
-
+<h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
 <h3 align="center">A passionate QA  with 2 years of experience in this field. <br/><br/> Currently located in Romania!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aeonftw&label=Profile%20views&color=0e75b6&style=flat" alt="aeonftw" /> </p>
 <br />
