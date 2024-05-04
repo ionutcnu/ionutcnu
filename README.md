@@ -32,14 +32,53 @@
   <tr>
     <td style="text-align: center;">Programming Languages</td>
     <td style="text-align: center;">
-      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" alt="C#" width="40" height="40" /> </a>
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" alt="C#" width="40" height="40" />
+      </a>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">Frontend Development</td>
-    <td style="text-align: center;"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a></td>
+    <td style="text-align: center;">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+      </a>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
-  <!-- Additional rows for other technologies -->
+  <tr>
+    <td style="text-align: center;">Testing Frameworks</td>
+    <td style="text-align: center;">
+      <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40" />
+      </a>
+      <a href="https://cypress.io" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OsWAcPBtf_ZWvYGoxVBSNjoLZnxrMujp6RbPaWaUpA&s" alt="cypress" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Database</td>
+    <td style="text-align: center;">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40" />
+      </a>
+      <a href="https://azure.microsoft.com/en-us/products/cosmos-db/" target="_blank" rel="noreferrer">
+        <img src="https://logowik.com/content/uploads/images/azure-cosmos-db7049.jpg" alt="Azure Cosmos DB" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Software</td>
+    <td style="text-align: center;">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-[![Aeonftw' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&compact)](https://github.com/aeonftw)
+[![Aeonftw' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact)](https://github.com/aeonftw)
+
