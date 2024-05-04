@@ -23,9 +23,9 @@
     <td style="text-align: center;"><b>Technology</b></td>
     <td rowspan="8" style="height: 100%; border:none">
    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact" alt="Most Used Languages" style="width: 80%; max-width: 100px; margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true" alt="GitHub Stats" style="width: 80%; max-width: 100px; margin-bottom: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw" alt="GitHub Streak Stats" style="width: 80%; max-width: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact" alt="Most Used Languages" style="width: 50%; max-width: 100px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&layout=compact" alt="GitHub Stats" style="width: 50%; max-width: 100px; margin-bottom: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&layout=compact" alt="GitHub Streak Stats" style="width: 50%; max-width: 100px;" />
 </div>
 
 
