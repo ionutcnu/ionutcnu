@@ -46,21 +46,21 @@
 
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; max-width: 820px; margin: auto;">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 900px; margin: auto;">
     <!-- Most Used Languages Card -->
-    <div style="flex: 1 1 50%; max-width: 400px; box-sizing: border-box; padding: 10px;">
+    <div style="flex: 1 1 45%; margin: 5px; box-sizing: border-box;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" style="width: 100%; height: auto;">
     </div>
     <!-- GitHub Stats Card -->
-    <div style="flex: 1 1 50%; max-width: 400px; box-sizing: border-box; padding: 10px;">
+    <div style="flex: 1 1 45%; margin: 5px; box-sizing: border-box;">
       <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" style="width: 100%; height: auto;">
     </div>
     <!-- GitHub Streak Stats Card -->
-    <div style="flex: 1 1 50%; max-width: 400px; box-sizing: border-box; padding: 10px;">
+    <div style="flex: 1 1 45%; margin: 5px; box-sizing: border-box;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" style="width: 100%; height: auto;">
     </div>
     <!-- WakaTime Stats Card -->
-    <div style="flex: 1 1 50%; max-width: 400px; box-sizing: border-box; padding: 10px;">
+    <div style="flex: 1 1 45%; margin: 5px; box-sizing: border-box;">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" style="width: 100%; height: auto;">
     </div>
   </div>
