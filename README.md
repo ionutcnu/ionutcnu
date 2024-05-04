@@ -1,5 +1,9 @@
-
-
+<p align="center">
+  <a>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVlNGNzZzJ6MHF3dGp1MTluYm1jcHVrNG54Z3ZidnAxeTdxMzZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krs7BX0BVQDvi/giphy.gif"  />
+  </a>
+</p>
+<h1>
 <h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
 <h3 align="center">A passionate QA  with 2 years of experience in this field. <br/><br/> Currently located in Romania!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aeonftw&label=Profile%20views&color=0e75b6&style=flat" alt="aeonftw" /> </p>
