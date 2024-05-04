@@ -82,5 +82,8 @@
   </tr>
 </table>
 
-[![Aeonftw' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact)](https://github.com/aeonftw)
-
+<p align="center">
+  <a href="https://github.com/aeonftw">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact" alt="Aeonftw' WakaTime stats" />
+  </a>
+</p>
