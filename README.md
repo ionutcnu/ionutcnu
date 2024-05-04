@@ -22,14 +22,14 @@
     <td style="text-align: center;"><b>Type</b></td>
     <td style="text-align: center;"><b>Technology</b></td>
     <td rowspan="8" style="height: 100%; border:none">
-    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact" alt="Most Used Languages" style="width: 100%; max-width: 300px; margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 300px; margin-bottom: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw" alt="GitHub Streak Stats" style="width: 100%; max-width: 300px;" />
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact" alt="Most Used Languages" style="width: 100%; max-width: 250px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 250px; margin-bottom: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw" alt="GitHub Streak Stats" style="width: 100%; max-width: 250px;" />
 </div>
 
-      </div>
-    </td>
+
+  
   </tr>
   <tr>
     <td style="text-align: center;">Programming Languages</td>
