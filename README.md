@@ -42,13 +42,26 @@
   <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line SVG">
+
+
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" width="400" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" width="400" style="margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" width="400" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" width="400" style="margin: 10px;">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: flex-start;">
+    <!-- Most Used Languages Card -->
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&layout=compact&theme=react" alt="Most Used Languages" width="400">
+    </div>
+    <!-- GitHub Stats Card -->
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=aeonftw&show_icons=true&theme=react" alt="GitHub Stats" width="400">
+    </div>
+    <!-- GitHub Streak Stats Card -->
+    <div style="margin: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeonftw&theme=react" alt="GitHub Streak Stats" width="400">
+    </div>
+    <!-- WakaTime Stats Card -->
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aeonftw&layout=compact&theme=react" alt="WakaTime Stats" width="400">
+    </div>
   </div>
 </div>
-
