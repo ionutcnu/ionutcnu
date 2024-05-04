@@ -1,7 +1,7 @@
 
 <p align="center">
+![testing](https://github.com/aeonftw/aeonftw/assets/25122138/153d3bea-d934-486f-ba3c-3e7ea1f4dd8c)
 
-  <img src="![testing](https://github.com/aeonftw/aeonftw/assets/25122138/153d3bea-d934-486f-ba3c-3e7ea1f4dd8c)" alt="testing" />
 </p>
 <h1>
 <h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
