@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ionut Cioncu</h1>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c4/a8/56/c4a8562a0785c5c342ee856e4b3b55ae.gif" alt="image_description" />
+</p>
+<h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B;I'm+Ionut+Cioncu)](https://git.io/typing-svg)" /></a>
+</p>
+
 <h3 align="center">A passionate QA  with 2 years of experience in this field. <br/><br/> Currently located in Romania!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aeonftw&label=Profile%20views&color=0e75b6&style=flat" alt="aeonftw" /> </p>
 <br />
@@ -15,7 +24,7 @@
         <td style="text-align: center;"><b>Type</b></td>
         <td style="text-align: center;"><b>Technology</b></td>
         <td rowspan="8" style="height: 100%; border:none">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeonftw&hide=blade,php,shaderLab,hlsl,java,c++&langs_count=6" alt="aeonftw" />
+          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeonftw&show_icons=true&locale=en&layout=compact" alt="aeonftw" /></p>
         </td>
     </tr>
     <tr>
