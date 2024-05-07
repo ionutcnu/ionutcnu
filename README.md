@@ -69,3 +69,6 @@
     </tr>
   </table>
 </div>
+
+## snake eating my contribution graph
+![snake gif](https://github.com/aeonftw/aeonftw/blob/output/github-contribution-grid-snake.svg)
