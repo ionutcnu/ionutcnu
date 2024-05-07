@@ -34,6 +34,7 @@
   <h3>Languages and Tools:</h3>
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" alt="Rider" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
     <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40">
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40">
