@@ -99,11 +99,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/ionutcnu/Catchy/pull/17) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
-2. 💪 Opened PR [#17](https://github.com/ionutcnu/Catchy/pull/17) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
-3. 🎉 Merged PR [#16](https://github.com/ionutcnu/Catchy/pull/16) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
-4. 💪 Opened PR [#16](https://github.com/ionutcnu/Catchy/pull/16) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
-5. 🎉 Merged PR [#15](https://github.com/ionutcnu/Catchy/pull/15) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
+1. 💪 Opened PR [#12](https://github.com/ionutcnu/Portfolio/pull/12) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+2. 🎉 Merged PR [#17](https://github.com/ionutcnu/Catchy/pull/17) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
+3. 💪 Opened PR [#17](https://github.com/ionutcnu/Catchy/pull/17) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
+4. 🎉 Merged PR [#16](https://github.com/ionutcnu/Catchy/pull/16) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
+5. 💪 Opened PR [#16](https://github.com/ionutcnu/Catchy/pull/16) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line SVG">
