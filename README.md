@@ -99,7 +99,7 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ionutcnu/Watcher/pull/2) in [ionutcnu/Watcher](https://github.com/ionutcnu/Watcher)
+1. 💪 Opened PR [#13](https://github.com/ionutcnu/Portfolio/pull/13) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
 2. 🎉 Merged PR [#19](https://github.com/ionutcnu/Catchy/pull/19) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
 3. 💪 Opened PR [#19](https://github.com/ionutcnu/Catchy/pull/19) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
 4. 🎉 Merged PR [#18](https://github.com/ionutcnu/Catchy/pull/18) in [ionutcnu/Catchy](https://github.com/ionutcnu/Catchy)
