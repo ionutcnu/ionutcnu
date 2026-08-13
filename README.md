@@ -99,8 +99,8 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ionutcnu/Portfolio/pull/14) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-2. 💪 Opened PR [#14](https://github.com/ionutcnu/Portfolio/pull/14) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+1. 🗣 Commented on [#15](https://github.com/ionutcnu/Portfolio/pull/15#issuecomment-5287168870) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+2. 💪 Opened PR [#15](https://github.com/ionutcnu/Portfolio/pull/15) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
 3. 💪 Opened PR [#4](https://github.com/ionutcnu/Tabla/pull/4) in [ionutcnu/Tabla](https://github.com/ionutcnu/Tabla)
 4. 🎉 Merged PR [#3](https://github.com/ionutcnu/Tabla/pull/3) in [ionutcnu/Tabla](https://github.com/ionutcnu/Tabla)
 5. 💪 Opened PR [#3](https://github.com/ionutcnu/Tabla/pull/3) in [ionutcnu/Tabla](https://github.com/ionutcnu/Tabla)
