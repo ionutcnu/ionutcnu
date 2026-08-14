@@ -16,7 +16,7 @@
 <h3 align="center">QA Engineer with 4+ years of multi-domain experience in Naval Shipping & Payments. <br/><br/> Breaking software professionally from Romania.</h3>
 
 
-- Working for [Endava PLC](https://www.endava.com/)
+- Currently at [Endava](https://www.endava.com/)
 - Building [**Catchy**](https://github.com/ionutcnu/Catchy) — a Chrome Extension that surfaces JS errors as visual toasts
 - Building [**Watcher**](https://github.com/ionutcnu/Watcher) — a World of Tanks clan tracker with live analytics
 - Built a [**University Platform**](https://github.com/ionutcnu/Bachelor-Thesis) for University of Pitesti — still in production
