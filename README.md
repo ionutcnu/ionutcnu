@@ -99,11 +99,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/ionutcnu/Portfolio/pull/16) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-2. 🎉 Merged PR [#15](https://github.com/ionutcnu/Portfolio/pull/15) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-3. 🗣 Commented on [#15](https://github.com/ionutcnu/Portfolio/pull/15#issuecomment-5290402667) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-4. 🗣 Commented on [#15](https://github.com/ionutcnu/Portfolio/pull/15#issuecomment-5287168870) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-5. 💪 Opened PR [#15](https://github.com/ionutcnu/Portfolio/pull/15) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+1. 🎉 Merged PR [#16](https://github.com/ionutcnu/Portfolio/pull/16) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+2. 💪 Opened PR [#16](https://github.com/ionutcnu/Portfolio/pull/16) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+3. 🎉 Merged PR [#15](https://github.com/ionutcnu/Portfolio/pull/15) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+4. 🗣 Commented on [#15](https://github.com/ionutcnu/Portfolio/pull/15#issuecomment-5290402667) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+5. 🗣 Commented on [#15](https://github.com/ionutcnu/Portfolio/pull/15#issuecomment-5287168870) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line SVG">
