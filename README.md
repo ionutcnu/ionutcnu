@@ -99,11 +99,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/ionutcnu/Portfolio/pull/17#issuecomment-6469901076) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-2. 💪 Opened PR [#17](https://github.com/ionutcnu/Portfolio/pull/17) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
-3. 🎉 Merged PR [#2](https://github.com/ionutcnu/demoqa-bookstore-playwright/pull/2) in [ionutcnu/demoqa-bookstore-playwright](https://github.com/ionutcnu/demoqa-bookstore-playwright)
-4. 💪 Opened PR [#2](https://github.com/ionutcnu/demoqa-bookstore-playwright/pull/2) in [ionutcnu/demoqa-bookstore-playwright](https://github.com/ionutcnu/demoqa-bookstore-playwright)
-5. 🎉 Merged PR [#1](https://github.com/ionutcnu/demoqa-bookstore-playwright/pull/1) in [ionutcnu/demoqa-bookstore-playwright](https://github.com/ionutcnu/demoqa-bookstore-playwright)
+1. 🗣 Commented on [#17](https://github.com/ionutcnu/Portfolio/pull/17#issuecomment-6471840797) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+2. 🗣 Commented on [#17](https://github.com/ionutcnu/Portfolio/pull/17#issuecomment-6469860720) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+3. 🎉 Merged PR [#17](https://github.com/ionutcnu/Portfolio/pull/17) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+4. 🗣 Commented on [#17](https://github.com/ionutcnu/Portfolio/pull/17#issuecomment-6469901076) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
+5. 💪 Opened PR [#17](https://github.com/ionutcnu/Portfolio/pull/17) in [ionutcnu/Portfolio](https://github.com/ionutcnu/Portfolio)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line SVG">
